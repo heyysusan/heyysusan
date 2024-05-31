@@ -24,7 +24,7 @@ I'm a passionate Data Analyst with a keen interest in transforming raw data into
 
 ## 💼 Projects and Portfolio
 ### ATM Stimulator Project
-[![ATM Stimulator](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=atm-stimulator)](https://github.com/heyysusan/atm-stimulator)
+[![ATM_Stimulator](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=atm-stimulator)](https://github.com/heyysusan/atm-stimulator)
 
 ### Visualization Dashboard
 [![The Performance of Hollywood Movies](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=the-performance-of-hollywood-movies)](https://github.com/heyysusan/the-performance-of-hollywood-movies)
