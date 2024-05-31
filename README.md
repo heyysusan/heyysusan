@@ -20,7 +20,7 @@ I'm a passionate Data Analyst with a keen interest in transforming raw data into
 | Cloud Computing       | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
 
 ## 📊 GitHub Stats
-![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=susanolaniyan&show_icons=true&theme=radical)
+![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyysusan&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-olaniyan-1997s) 
