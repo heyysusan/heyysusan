@@ -22,10 +22,22 @@ I'm a passionate Data Analyst with a keen interest in transforming raw data into
 ## 📊 GitHub Stats
 ![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyysusan&show_icons=true&theme=radical)
 
+## 💼 Projects and Portfolio
+### Data Analysis Project
+[![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=data-analysis-project)](https://github.com/susanolaniyan/data-analysis-project)
+
+### Data Visualization Dashboard
+[![Data Visualization](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=data-visualization-dashboard)](https://github.com/susanolaniyan/data-visualization-dashboard)
+
+## 🚀 Current Projects & Goals
+- 🌐 Working on a web scraping project using Python.
+- 📚 Learning advanced SQL techniques.
+- 🎯 Aiming to contribute to open-source projects.
+
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-olaniyan-1997s) 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/susanolaniyan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyysusan)
 
 ## ✨ Fun Facts
 - 📊 I love diving into complex data sets and uncovering hidden patterns.
