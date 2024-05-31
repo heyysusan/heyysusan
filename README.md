@@ -27,7 +27,7 @@ I'm a passionate Data Analyst with a keen interest in transforming raw data into
 [![ATM Stimulator](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=atm-stimulator)](https://github.com/heyysusan/atm-stimulator)
 
 ### Visualization Dashboard
-[![Data Visualization](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=data-visualization-dashboard)](https://github.com/susanolaniyan/data-visualization-dashboard)
+[![Hollywood Movies Performance](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=the-performance-of-hollywood-movies)](https://github.com/heyysusan/the-performance-of-hollywood-movies)
 
 ## 🚀 Current Projects & Goals
 - 🌐 Working on a web scraping project using Python.
