@@ -23,8 +23,8 @@ I'm a passionate Data Analyst with a keen interest in transforming raw data into
 ![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyysusan&show_icons=true&theme=radical)
 
 ## 💼 Projects and Portfolio
-### Data Analysis Project
-[![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=data-analysis-project)](https://github.com/susanolaniyan/data-analysis-project)
+### ATM Stimulator Project
+[![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=data-analysis-project)](https://github.com/heyysusan/atm-stimulator)
 
 ### Visualization Dashboard
 [![Data Visualization](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=data-visualization-dashboard)](https://github.com/susanolaniyan/data-visualization-dashboard)
