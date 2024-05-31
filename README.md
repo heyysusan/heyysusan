@@ -1,4 +1,4 @@
-#👋 Hi, I'm Susan Olaniyan
+##👋 Hi, I'm Susan Olaniyan
 
 ## 👩‍💻 About Me
 I'm a passionate Data Analyst with a keen interest in transforming raw data into meaningful insights. I enjoy working on data analysis, data cleaning, data visualization, and data manipulation projects. I'm also enthusiastic about cloud computing.
@@ -21,9 +21,6 @@ I'm a passionate Data Analyst with a keen interest in transforming raw data into
 
 ## 📊 GitHub Stats
 ![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=susanolaniyan&show_icons=true&theme=radical)
-
-## 🚀 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susanolaniyan&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susanolaniyan/)
