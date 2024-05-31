@@ -26,7 +26,7 @@ I'm a passionate Data Analyst with a keen interest in transforming raw data into
 ### Data Analysis Project
 [![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=data-analysis-project)](https://github.com/susanolaniyan/data-analysis-project)
 
-### Data Visualization Dashboard
+### Visualization Dashboard
 [![Data Visualization](https://github-readme-stats.vercel.app/api/pin/?username=heyysusan&repo=data-visualization-dashboard)](https://github.com/susanolaniyan/data-visualization-dashboard)
 
 ## 🚀 Current Projects & Goals
